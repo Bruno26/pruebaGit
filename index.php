@@ -8,6 +8,8 @@
 
 <p>Curso de control de versiones con GIT</p>
 
+<p>Sección de instalación</>
+
 
 <div>
 
